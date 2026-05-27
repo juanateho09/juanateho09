@@ -8,8 +8,8 @@
 </h3>
 
 <h1 align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=900&height=100&lines=Computer+Science+Student+%40+UNAL;Full-Stack+Developer;Java+%2B+Spring+Boot+Backend;React+%2B+TypeScript+Frontend;Passionate+about+Data+%26+Math)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=900&height=100&lines=Computer+Science+Student+%40+UNAL;Passionate+about+Data+%26+Math;Python+Developer;Always+Learning+New+Things)](https://git.io/typing-svg)
 </h1>
 
 <p align="center">
@@ -22,12 +22,11 @@
 
 ## 👨‍💻 &nbsp;About Me
 
-I'm a Computer Science student at the **National University of Colombia** passionate about building robust full-stack systems, data analysis, and applied mathematics.
+I'm a Computer Science student at the **National University of Colombia** passionate about building software, data analysis, and applied mathematics.
 
 - 🏗️ Currently building a **payroll management system** (Spring Boot + React + PostgreSQL)
-- 📊 Interested in **data analysis**, statistical models, and Python/R
-- 🧮 Love **algorithms**, graph theory, and numerical simulations
-- 🌱 Learning **TypeScript**, **Docker**, and **system design**
+- 📊 Interested in **data analysis**, statistical models, and Python
+- 🌱 Learning **full-stack web development** step by step
 - ⚡ Fun fact: I debug best with cumbia in the background 🎵
 
 ---
@@ -38,35 +37,33 @@ I'm a Computer Science student at the **National University of Colombia** passio
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### 🚀 Frameworks & Libraries
+#### 📚 Libraries
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-#### 🗄️ Databases & Migrations
+#### 🔧 Tools
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-%23CC0200.svg?style=for-the-badge&logo=flyway&logoColor=white)
-
-#### 🔧 Tools & DevOps
-
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
-#### 💻 IDEs & Editors
+#### 💻 IDEs
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🌱 &nbsp;Currently Learning
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%2307405e.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
@@ -81,14 +78,6 @@ I'm a Computer Science student at the **National University of Colombia** passio
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=juanateho09&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7" />
-</div>
-
----
-
-## 🏆 &nbsp;Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juanateho09&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" />
 </div>
 
 ---
