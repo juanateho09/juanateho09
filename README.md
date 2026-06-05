@@ -79,17 +79,6 @@ I'm a Computer Science student at the **National University of Colombia** passio
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=juanateho09&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7" />
 </div>
-
----
-
-## 📈 &nbsp;Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanateho09&theme=tokyo-night&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FF6B6B&area=true&hide_border=true" />
-</div>
-
----
-
 ## 🔗 &nbsp;Contact Me
 
 <div align="center">
@@ -102,6 +91,9 @@ I'm a Computer Science student at the **National University of Colombia** passio
   <a href="https://www.linkedin.com/in/juan-jose-atehortua-509172341/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://x.com/teho0202">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
 </div>
 
 ---
@@ -109,3 +101,13 @@ I'm a Computer Science student at the **National University of Colombia** passio
 <div align="center">
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,11,20&section=footer" />
 </div>
+---
+
+## 📈 &nbsp;Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juanateho09&theme=tokyo-night&bg_color=0D1117&color=6E57F7&line=6E57F7&point=FF6B6B&area=true&hide_border=true" />
+</div>
+
+---
+
