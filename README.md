@@ -70,19 +70,21 @@ I'm a Computer Science student at the **National University of Colombia** passio
 ## 📊 &nbsp;GitHub Stats
 
 <div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juanateho09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanateho09&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=juanateho09&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=juanateho09&theme=tokyonight" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=juanateho09&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=juanateho09&theme=tokyonight" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=juanateho09&theme=tokyonight-duo&hide_border=true&background=0D1117&stroke=6E57F7&ring=6E57F7&fire=FF6B6B&currStreakLabel=6E57F7" />
 </div>
 ## 🔗 &nbsp;Contact Me
 
 <div align="center">
-  <a href="mailto:juanjoateho2007@gmail.com">
+  <a href="mailto:juatehortuav@gmail.com">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="mailto:jatehortuav@unal.edu.co">
